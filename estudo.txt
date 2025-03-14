@@ -1,0 +1,11 @@
+O que é um JSX no React-Native?
+R: a sigla JSX significa JavaScript XML é uma estrutura que permite escrever a parte da interface visual, é tipo um HTML adaptado para o React-Native.
+
+O "set" basicamente é o prefixo que atualiza novos dados dentro de um componente que tem funcionalidades
+
+SafeAreaView é para armazenar as informações dentro das diretrizes de segurança
+
+Para ser possível fazer uma estilização em um componente você deve colocar o atributo style = {styles.nomequalquer}.
+
+link form react-native:
+https://medium.com/@yildizfatma/creating-and-validating-forms-in-react-native-expo-a-step-by-step-guide-c0046753eb44
